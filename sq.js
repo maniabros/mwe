@@ -1,9 +1,4 @@
-
-        window.onload = function() {
-
-      
-
-          ! function e(t, o, i) {
+! function e(t, o, i) {
             function n(r, s) {
               if (!o[r]) {
                 if (!t[r]) {
@@ -3391,6 +3386,6 @@
           }, {}, [4]);
 
 
-        }
+    
 
    
